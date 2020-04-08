@@ -1,5 +1,5 @@
 {
-  "name": "nodetscstarter",
+  "name": "node-exercise",
   "version": "1.0.0",
   "description": "",
   "main": "dist/server.js",
@@ -33,13 +33,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gsilber/NodeTypescriptStarter.git"
+    "url": "git+https://github.com/mattig3090/node-exercise.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gsilber/NodeTypescriptStarter/issues"
+    "url": "https://github.com/mattig3090/node-exercise/issues"
   },
-  "homepage": "https://github.com/gsilber/NodeTypescriptStarter#readme"
+  "homepage": "https://github.com/mattig3090/node-exercise#readme"
 }
